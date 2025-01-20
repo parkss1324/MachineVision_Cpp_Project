@@ -1,1 +1,1 @@
-# -MachineVision_Cpp_Project
+# MachineVision_Cpp_Project
