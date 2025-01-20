@@ -17,7 +17,7 @@ Visual Studio Code와 OpenCV를 활용하여 손으로 그림을 그릴 수 있�
 - **박성수** : 전체 프로젝트 기획 및 개발
 
 ## 💻 기술 스택 및 개발 환경
-- **기술 스택** : Python, Machine Vision
+- **기술 스택** : C++, Machine Vision
 - **소프트웨어** : Visual Studio Code, OpenCV
 
 ## 📌 주요 기능
