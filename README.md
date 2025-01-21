@@ -21,7 +21,7 @@ Visual Studio Code와 OpenCV, YouTube를 활용하여 동영상에서 차선을 
 - **소프트웨어** : Visual Studio Code, OpenCV
 
 ## 📌 주요 기능
-- yt-dlp 라이브러리로 동영상을 가져옵니다.
+- yt-dlp 라이브러리로 동영상을 가져옵니다.
 - 동영상에서 ROI 영역을 설정하고 검출된 차선을 표시합니다.
 - 'q'를 입력하면 영상을 종료합니다.
 
