@@ -1,5 +1,5 @@
-# Road lane detection
-Visual Studio Code와 OpenCV를 활용하여 손으로 그림을 그릴 수 있는 소스 코드입니다.
+# Road lane detection
+Visual Studio Code와 OpenCV, YouTube를 활용하여 동영상에서 차선을 검출하는 소스 코드입니다.
 
 ## 👨‍🏫 프로젝트 소개
 유튜브 URL을 참고하여, 동영상에서 차선을 검출합니다.
